@@ -2,7 +2,7 @@ package com.qa;
 
 /**
  * Hello world!
- *
+ * testing commit
  */
 public class App 
 {
