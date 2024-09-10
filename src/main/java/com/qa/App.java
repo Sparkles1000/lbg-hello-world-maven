@@ -3,6 +3,7 @@ package com.qa;
 /**
  * Hello world!
  * testing commit
+* Testing second commit
  */
 public class App 
 {
