@@ -2,7 +2,7 @@ package com.qa;
 
 /**
  * Hello world!
- * testing commit
+ * testing commit another testing commit for the device
 * Testing second commit
  */
 public class App 
