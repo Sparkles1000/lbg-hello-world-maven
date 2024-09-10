@@ -1,9 +1,7 @@
 package com.qa;
 
 /**
- * Hello world!
- * testing commit another testing commit for the device
-* Testing second commit
+ * Hello world! 
  */
 public class App 
 {
